@@ -11,7 +11,7 @@
 |[[E-07]인물사진을 만들어 보자](https://github.com/chaen805/AIFFEL_Exploration/blob/master/EX07/%5BE-07%5Dshallow_focus.ipynb)| |
 |[[E-08]뉴스 요약봇 만들기](https://github.com/chaen805/AIFFEL_Exploration/blob/master/EX08/%5BE-08%5Dnews_summarization.ipynb)| |
 |[[E-09]폐렴아 기다려라!](https://github.com/chaen805/AIFFEL_Exploration/blob/master/EX09/%5BE-09%5Dpneumonia.ipynb)| |
-|[[E-10]인공으로 세상에 없던 새로운 패션 만들기](https://github.com/chaen805/AIFFEL_Exploration/blob/master/EX10/%5BE-10%5Ddcgan_cifar.ipynb)| |
+|[[E-10]인공지능으로 세상에 없던 새로운 패션 만들기](https://github.com/chaen805/AIFFEL_Exploration/blob/master/EX10/%5BE-10%5Ddcgan_cifar.ipynb)| |
 |[[E-11]어제 오른 내 주식, 과연 내일은?](https://github.com/chaen805/AIFFEL_Exploration/blob/master/EX11/%5BE-11%5Dstock_prediction.ipynb)| |
 |[[E-12]트랜스포머로 만드는 대화형 챗봇](https://github.com/chaen805/AIFFEL_Exploration/blob/master/EX12/%5BE-12%5Dkorean_chatbot.ipynb)| |
 |[[E-13]인간보다 퀴즈를 잘푸는 인공지능](https://github.com/chaen805/AIFFEL_Exploration/blob/master/EX13/%5BE-13%5DKorQuAD_bert.ipynb)| |
